@@ -5,7 +5,7 @@
     "lang_de"
   ],
   "notice" : {
-    "id": 0,
+    "uuid": "0f443c5c-3203-4fcb-8bca-4ec72616c38c",
     "message" : "This is an example notice."
   }
 }
