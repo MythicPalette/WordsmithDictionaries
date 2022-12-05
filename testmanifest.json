@@ -6,7 +6,7 @@
   ],
   "notice":
   [
-    "7014F619-C0E2-41CD-8212-81AC3379F3C2",
-    "Hello! This is Wordsmith's new notice system.\nI'll only use this in the future for important things like feature updates or discovered bugs.\nWith that in mind, here is a cool new feature to notice with this update!\nYou can now use /scratchpad (name) to create a scratchpad with a custom name! like /scratchpad Bartender\n\nI fixed several bugs as well:\n  * The close button in Settings will now listen to the 'Confirm Scratch Pad Delete' setting.\n  * The web manifest and dictionary files will only be loaded a single time now instead of 3 times.\n  * Fixed a bug that could cause 'Confirm Delete Scratch Pads' setting to get changed accidentally"
+    "7793FABF-D71D-4A48-888C-95C1D05A0AC2",
+    "Hello! This is Wordsmith's new notice system.\nI'll only use this in the future for important things like feature updates or discovered bugs.\nWith that in mind, here is a cool new feature to notice with this update!\n* You can now use /scratchpad (name) to create a scratchpad with a custom name!\n    Like /scratchpad Bartender\n* You can also use /scratchpad (id) to create a scratchpad with whatever number you want and\n    it will work much better now.\n\nI fixed several bugs as well:\n  * The close button in Settings will now listen to the 'Confirm Scratch Pad Delete' setting.\n  * The web manifest and dictionary files will only be loaded a single time now instead of 3 times.\n  * Fixed a bug that could cause 'Confirm Delete Scratch Pads' setting to get changed accidentally"
   ]
 }
