@@ -7,6 +7,6 @@
   "notice":
   [
     "79A7EF55-CE10-4138-B84F-3B5A1EFE163C",
-    "Hello! This is Wordsmith's new notice system.\nI'll only use this in the future for important things like feature updates or discovered bugs.\nWith that in mind, here is a cool new feature to notice with this update!\n* You can now use /scratchpad (name) to create a scratchpad with a custom name!\n    Like /scratchpad Bartender\n* You can also use /scratchpad (id) to create a scratchpad with whatever number you want and\n    it will work much better now.\n\nI fixed several bugs as well:\n  * The close button in Settings will now listen to the 'Confirm Scratch Pad Delete' setting.\n  * The web manifest and dictionary files will only be loaded a single time now instead of 3 times.\n  * Fixed a bug that could cause 'Confirm Delete Scratch Pads' setting to get changed accidentally\n\nRemember, suggestions, ideas, and bug reports are always welcome on the GitHub page as well.\nI read it pretty frequently so if there is anything that comes to mind just let me know!"
+    "I need to apologize. I made a small mistake with a single line of code that cost you all\ninsane amounts of performance. I'm talking about going from hundreds of FPS to maybe 60.\nThis was entirely my fault and I want you to know that I have FIXED this issue. You\nshould now see next to no performance loss when using Wordsmith. Again, I cannot apologize\nenough for this. Thank you to everyone who used Wordsmith in spite of this glaring issue."
   ]
 }
