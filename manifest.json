@@ -6,7 +6,7 @@
   ],
   "notice":
   [
-    "66F45468-BD72-48DE-AAAD-3E2A446B5C08",
-    "I need to apologize. I made a small mistake with a single line of code that cost you all\ninsane amounts of performance. I'm talking about going from hundreds of FPS to maybe 60.\nThis was entirely my fault and I want you to know that I have FIXED this issue in the coming update.\nYou should now see next to no performance loss when using Wordsmith v1.7.7. Again, I cannot apologize\nenough for this. Thank you to everyone who used Wordsmith in spite of this glaring issue."
+    "818761a7-cb39-42f2-b33c-5734594b1207",
+    "Once again, I need to apologize to you all! Wordsmith version 1.11.0 has a major bug in the new Word Usage Statistics feature that causes a crash.\nIt's entirely my fault and I'm super sorry that this happened.\nVersion 1.11.1 fixes this crash and is already submitted for review to the Dalamud team.\nI'm super sorry that this bug happened and I'll try to do better in the future!"
   ]
 }
